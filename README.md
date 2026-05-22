@@ -61,7 +61,7 @@ Output: `dist/APP.exe`
 | **Institution** | EMSI |
 | **Professor** | EL MKHALET MOUNA |
 | **Student** | ETTAHIRI RAYAN |
-| **Version** | v2.0 • EMSI 2025 |
+| **Version** | v2.0 • EMSI 2026 |
 
 ## License
 
